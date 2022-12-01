@@ -1,0 +1,10 @@
+.title {
+  font-size: 15px;
+  color: darkblue;
+  cursor: pointer;
+  transition: all 0.5s ease-in 1s;
+}
+.title:hover {
+  color: green;
+  font-size: 10px;
+}
